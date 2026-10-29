@@ -29,8 +29,6 @@ Salin template berikut ke `answers.md`. Isi sambil mengerjakan.
 ```markdown
 # Jawaban Praktikum: <MIFTAH_AHMAD_DASUKI > (<10224042>)
 
-# Jawaban Praktikum: [Nama Kamu] ([NIM Kamu])
-
 ## Bagian 1: Pemanasan
 1. **Anatomi aturan:**
    - **Selector:** `nav a.active:hover`
